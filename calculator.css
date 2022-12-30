@@ -1,0 +1,17 @@
+.div1{
+    background-color: rgb(61, 207, 207);
+    height:300px;
+    width: 300px;
+    margin: auto;
+    border: 3px solid #9820ad;
+    padding: 10px;
+    text-align: center;
+}
+button{
+    height:30px;
+    width: 30px;
+    border-radius:50px;
+}
+button:hover{
+    background-color: rgb(174, 0, 255);
+}
