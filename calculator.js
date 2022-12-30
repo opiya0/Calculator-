@@ -31,5 +31,6 @@ switch(op.trim()){
 text.value=result;
 
 }
-
-        
+function x(){
+    text.value=""
+}
